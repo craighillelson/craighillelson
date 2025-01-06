@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### Interests
+- Go
+- Kubernetes
+- Okta
+- Python
+- Terraform
+
 <!--
 **craighillelson/craighillelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
