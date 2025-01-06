@@ -2,6 +2,7 @@
 
 ### Interests
 - Go
+- InfoSec
 - Kubernetes
 - Okta
 - Python
