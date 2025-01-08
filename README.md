@@ -16,6 +16,11 @@
 - [Okta Certified Developer](https://www.credly.com/earner/earned/badge/45452904-aa84-4ae5-a7cc-b345f5682d42)
 - [Security+](https://www.credly.com/earner/earned/badge/c4291ff2-0bf4-4985-a995-4c7c05da2bad)
 
+### Favorite Course Authors
+- [David Clinton](https://bootstrap-it.com/)
+- [Nigel Poulton](https://www.nigelpoulton.com/)
+- [Wes Higbee](https://www.weshigbee.com/)
+
 <!--
 **craighillelson/craighillelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
