@@ -15,6 +15,7 @@
 - [CISSP](https://www.credly.com/earner/earned/badge/683f5768-7dea-4b78-a8bd-26cfebea6f76)
 - [Okta Certified Developer](https://www.credly.com/earner/earned/badge/45452904-aa84-4ae5-a7cc-b345f5682d42)
 - [Security+](https://www.credly.com/earner/earned/badge/c4291ff2-0bf4-4985-a995-4c7c05da2bad)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/a81b156b-6bdb-4eb0-a13a-5c8ea4a424a0/public_url)
 
 ### Favorite Course Authors
 - [David Clinton](https://bootstrap-it.com/)
