@@ -11,6 +11,7 @@
 
 ### Credentials
 - [AWS Solutions Architect Associate](https://www.credly.com/earner/earned/badge/f4d10437-3944-4c43-969e-b3a2ff2e3c3f)
+- [AWS Developer Associate](https://www.credly.com/badges/43ca6536-3145-4c01-a7b4-147cd9cef82e/public_url)
 - [CCSP](https://www.credly.com/earner/earned/badge/e882ba52-8ec3-4189-a806-423ac5214878)
 - [CISSP](https://www.credly.com/earner/earned/badge/683f5768-7dea-4b78-a8bd-26cfebea6f76)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/a81b156b-6bdb-4eb0-a13a-5c8ea4a424a0/public_url)
