@@ -19,6 +19,7 @@
 - [Security+](https://www.credly.com/earner/earned/badge/c4291ff2-0bf4-4985-a995-4c7c05da2bad)
 
 ### Favorite Course Authors
+- [Adrian Cantrill](https://cantrill.io/)
 - [David Clinton](https://bootstrap-it.com/)
 - [Nigel Poulton](https://www.nigelpoulton.com/)
 - [Wes Higbee](https://www.weshigbee.com/)
