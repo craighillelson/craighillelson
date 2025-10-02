@@ -2,6 +2,7 @@
 
 ### Interests
 - Ansible
+- AWS
 - Go
 - InfoSec
 - Kubernetes
